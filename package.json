@@ -85,7 +85,7 @@
     "jest-transform-stub": "^2.0.0",
     "lerna": "2.11",
     "mkdirp-promise": "^5.0.1",
-    "prettier": "^1.16.4",
+    "prettier": "^1.18.1",
     "prop-types": "^15.6.0",
     "react": "^16.8.4",
     "react-docgen": "^4.1.0",
