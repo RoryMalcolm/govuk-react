@@ -7,7 +7,7 @@
   },
   "peerDependencies": {
     "react": ">=16.2.0",
-    "react-markdown": ">=3.2",
+    "react-markdown": ">=4.0.9",
     "styled-components": ">=4"
   },
   "scripts": {
